@@ -18,9 +18,9 @@ Los usuarios deberían poder:
 - Ver los estados de `:hover` y `:focus` para todos los elementos interactivos de la página.
 ### Captura de pantalla
 ![](/screenshot/Screenshot%202025-07-24%20at%2020-34-48%20Frontend%20Mentor%20Social%20links%20profile.png)
-![](/screenshot/Screenshot%202025-07-24%20at%2020-47-14%20Frontend%20Mentor%20Social%20links%20profile.png)
+
 ### Enlaces
-- URL de la solución: [](https://eliamrr.github.io/Social--links-profile--frontend-mentor/)
+- URL del sitio en vivo: [https://eliamrr.github.io/Social--links-profile--frontend-mentor/](https://eliamrr.github.io/Social--links-profile--frontend-mentor/)
 
 ## Mi proceso
 ### Construido con
@@ -33,11 +33,11 @@ Los usuarios deberían poder:
 ### Lo que aprendí
 - Existen varios tipos de diseños que dependiendo del tamaño de la pantalla se va adptando las propiedades y no es nesesario volver a construir todo desde cero
 - Descubri que tambien se pueden crear variables para ir guardando propiedades como como por ejemplo los coloros ejemplo:
-    --Verde: hsl(75, 94%, 57%);
-    --Blanco_letra: hsl(0, 0%, 100%);
-    --Gris_700_boton: hsl(0, 0%, 20%);
-    --Gris_800_carta: hsl(0, 0%, 12%);
-    --Gris_900_fondo: hsl(0, 0%, 8%);  
+    - --Verde: hsl(75, 94%, 57%);
+    - --Blanco_letra: hsl(0, 0%, 100%);
+    - --Gris_700_boton: hsl(0, 0%, 20%);
+    - --Gris_800_carta: hsl(0, 0%, 12%);
+    - --Gris_900_fondo: hsl(0, 0%, 8%);  
 - Ayuda un monton por que despues queremos cambiar algo lo podemos hacer desde ahi.
 
 ## Autor
